@@ -54,6 +54,10 @@ Claude Desktop / Claude Code
 
 SlotShift 读取 Claude 自己维护的模型目录（`Claude-3p/model-catalog/published.json`），把官方模型位和真实上游模型对上；Claude 升级模型后不需要改代码。
 
+## 界面
+
+<img src="docs/images/ui.png" alt="SlotShift 主界面：DeepSeek 服务商、Opus 5.5 / Sonnet 5.5 模型位、低档直答" width="900"/>
+
 ## 下载
 
 从 [Releases](https://github.com/banboat/SlotShift/releases/latest) 下载：
