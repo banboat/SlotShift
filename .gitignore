@@ -1,0 +1,8 @@
+/target
+*.dmg
+*.icns
+*.iconset
+_历史版本/
+.DS_Store
+*.tmp
+__pycache__/
